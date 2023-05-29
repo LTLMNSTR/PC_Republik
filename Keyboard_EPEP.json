@@ -1,0 +1,137 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4510307451291410/1912332291",
+      "main_ads_intertitial":"ca-app-pub-4510307451291410/9271909570",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"58b9dde61c0d9858",
+      "backup_ads_intertitial":"a2e8ee047ca3f413",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"ca-app-pub-4510307451291410~4665616003",
+      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard1.png"
+    }, 
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard2.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard3.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard4.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard5.png"
+    }, 
+    {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard6.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard7.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard8.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard9.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard10.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard11.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard12.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard13.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard14.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard15.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard16.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard17.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard18.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard19.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard20.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard21.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard22.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard23.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard24.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard25.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard26.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard27.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard28.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard29.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard30.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard31.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard32.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard33.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard34.png"
+    },
+     {
+      "url_theme": "https://ia802606.us.archive.org/25/items/keyboardepep/keyboard35.png"
+    }
+  ]
+
+
+}
