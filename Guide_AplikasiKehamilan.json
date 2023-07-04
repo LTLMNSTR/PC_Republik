@@ -28,21 +28,21 @@
    "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "title": "Permainan Kimetsu no Yaiba",
+      "image": "https://play-lh.googleusercontent.com/PeABYsjC7I0WkXM9dykaz3b1IGKXc8qG00zvbo7799CysMkkhGKK2qTrkkm_2j4FQvE=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.polkadotapps.connectGIYUkny"
     },
     {
       "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "title": "Anime Keyboard Nezuko Kamado",
+      "image": "https://play-lh.googleusercontent.com/ESQx4qVC5kC8huXtVZu6rtyr8FGWHGbBwuWvtUVySCkx2eLL4H0DnoZ9v5FaZw9sDHg=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.derazora.nezukoknykeyboard"
     },
     {
       "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      "title": "Aplikasi Penghasil Uang Nomor 1",
+      "image": "https://play-lh.googleusercontent.com/tANKYw58sQ41yrY8aalsq-JxUAo-3l9FSwC0w6FSJoCxSh977-BFwUHGUdq1yITv9PDI=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.treetop.appdanareward&hl=id-ID"
     },
     {
       "id": 4,
@@ -58,21 +58,51 @@
     },
     {
       "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+      "title": "Anya Spy x Family",
+      "image": "https://play-lh.googleusercontent.com/voF7t4cb-gLIZE6RDV5VZUcoqN1OixXvydjMSpgRTpfhcpR4b8TM4mUm72YusahGaTc=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.anyaspykeyboard"
     },
     {
       "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+      "title": "BTSxARMY 3D Live Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/QqJlSU8QX4MdA7yab2PwI3UC6-I_s3kjyxBoMQEHb9tpL2bts8htyrdeXUNixrQNwY4=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.BTSlivewallpaperparallax"
     },
     {
       "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      "title": "Anya Live Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/prKSyPhifI6HIV0aYFhtwstM4xcVXnPNoRZoWDA72HTzH10LjPOonzso9DCT0HFECw=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.ANYAlivewallpaperparallax"
+    },
+    {
+      "id": 11,
+      "title": "Animal Live Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/Kw77XU4EXRdzZVMYi8W0J1-xaHqPtjvh6mRDu6316YngoivdBkzxe4cymOjIzkBJvEQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.animalhdkeyboard"
+    },
+    {
+      "id": 12,
+      "title": "Universal Truck Driver Simulator",
+      "image": "https://play-lh.googleusercontent.com/r4YrgseHm8QFZ0pzIH03jZ32TV7mtVGmC4m2AU_EQLEDvcyFHf96yLfVbO6_PifKK3HJ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.UniversalTruckDriving"
+    },
+    {
+      "id": 13,
+      "title": "Nezuko Running 3D Game",
+      "image": "https://play-lh.googleusercontent.com/CC9Gwa6M2f0boDx8hcpC6jGBWJVGkPeJj00TmCWp768mrjek3vjCOmOZNwKNUSsa2g=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.therunningnezuko"
+    },
+    {
+      "id": 14,
+      "title": "Nezuko Bridge Game",
+      "image": "https://play-lh.googleusercontent.com/eP3CLdP1cKFdyqfiI3LFT0pCFS-U5I6RMijPh-FGhZ0_Zn5qbgw0OpnmT8kOiY57tr8B=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.NezukoAdventure"
+    },
+    {
+      "id": 15,
+      "title": "Detective Conan Parallax",
+      "image": "https://play-lh.googleusercontent.com/SzubeAKq3HF08RlT7z1JHkgrDJCDfNvx5pfdYVbhDRP8VeFKsMJ568V2SxD3_lW0jG0=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.brawlfans.DETECCTIVElivewallpaperparallax"
     }
   ],
   "Categories": [
